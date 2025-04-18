@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hola, soy Alex 👋
 
-<!--
-**AlexIzquierdo21/AlexIzquierdo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy aprendiendo a programar desde cero y comparto todo el proceso en mi canal [DeepCodeIA](https://youtube.com/@deepcodeia).  
+Mis proyectos combinan código, IA, apps útiles y ganas de mejorar cada semana.
 
-Here are some ideas to get you started:
+🚀 Actualmente trabajando en:
+- Una app para runners en Kotlin
+- Un chatbot con IA en Telegram
+- Shorts educativos sobre programación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Basado en Barcelona
+📫 Contacto: [alexdeepcodeai@gmail.com]
+
