@@ -27,12 +27,6 @@ I share:
 
 ---
 
-## 🐍 Snake Game (contribution graph)
-
-![Snake animation](https://github.com/DeepCodeIA/DeepCodeIA/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📺 Where to find me
 - **YouTube** → [DeepCodeIA Channel](https://www.youtube.com/@DeepCodeIA) (long-form videos & live streams).  
 - **TikTok** → [DeepCodeIA](https://www.tiktok.com/@deepcodeia) (daily coding shorts).  
